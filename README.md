@@ -13,7 +13,7 @@ Una app confiable, rápida y lista para mantener tu conexión segura.
 
 👉 Haz clic en el botón para descargar la **última versión** de nuestra app:
 
-[![Descargar APK](https://img.shields.io/badge/Descargar-APK-00C8FF?style=for-the-badge&logo=android)](https://github.com/Davidbranet/Branet-VPN/releases/download/v1.00/app-release.apk)
+[![Descargar APK](https://img.shields.io/badge/Descargar-APK-00C8FF?style=for-the-badge&logo=android)](https://github.com/Davidbranet/Branet-VPN/releases/download/latest/app-release.apk)
 
 ---
 
