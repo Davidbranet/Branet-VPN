@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="favicon.png" alt="ProNeet VPN Logo" width="180"/>
+  <img src="favicon.png" alt="Branet Pro Logo" width="180"/>
 </p>
 
-# 🛡️ ProNeet VPN
+# 🛡️ Branet Pro
 
-¡Bienvenido a la **Página oficial** de **ProNeet VPN**!  
+¡Bienvenido a la **Página oficial** de **Branet Pro**!  
 Una app confiable, rápida y lista para mantener tu conexión segura.
 
 ---
@@ -13,7 +13,7 @@ Una app confiable, rápida y lista para mantener tu conexión segura.
 
 👉 Haz clic en el botón para descargar la **última versión** de nuestra app:
 
-[![Descargar APK](https://img.shields.io/badge/Descargar-APK-green?style=for-the-badge&logo=android)](https://play.google.com/store/apps/details?id=com.proneet.vpn)
+[![Descargar APK](https://img.shields.io/badge/Descargar-APK-00C8FF?style=for-the-badge&logo=android)](https://github.com/Davidbranet/Branet-VPN/releases/download/v1.00/app-release.apk)
 
 ---
 
@@ -36,24 +36,27 @@ Una app confiable, rápida y lista para mantener tu conexión segura.
 
 <p align="center"><br><br>
   <strong>| Registro |</strong><br><br>
-  <img src="captura4.jpg" alt="Captura 3" width="300"/>  
+  <img src="captura4.jpg" alt="Captura 4" width="300"/>  
 </p>
 
 ## 📡 Redes y contacto
 
-Síguenos o únete a nuestros grupos para soporte, actualizaciones y novedades:
+Síguenos o contáctanos para soporte, actualizaciones y novedades:
 
-- 💬 WhatsApp: [Mensaje directo](https://wa.me/593992852026?text=Hola%20vengo%20desde%20la%20Página%20de%20ProNeet%20VPN%20y%20quiero%20más%20información%20sobre%20la%20aplicacion.)
-- 👥 Grupo WhatsApp: [Unirse aquí](https://chat.whatsapp.com/GoKO7anWUlO0AcCgWbJXOS)
-- 📢 Telegram: [Canal de Telegram](https://t.me/netfre_ec) | [Grupo de Telegram](https://t.me/Netfree_Ec)
-- 📘 Facebook: [ProNeet27](http://www.facebook.com/ProNeet27)
-- 📸 Instagram: [@proneet.27](http://www.instagram.com/proneet.27)
+- 💬 WhatsApp: [Mensaje directo](https://wa.me/593960025446?text=Hola%20vengo%20desde%20la%20pagina%20de%20Branet%20Pro%20y%20quiero%20mas%20informacion%20sobre%20la%20aplicacion.)
+- 📧 Correo: [bquizangacb@gmail.com](mailto:bquizangacb@gmail.com)
+- 📢 Telegram: [@David2721](https://t.me/David2721)
+- 📸 Instagram: [@brdavidqc](https://instagram.com/brdavidqc)
+
+<!-- Grupo de WhatsApp: pendiente -->
+<!-- Canal de Telegram: pendiente -->
+<!-- Facebook: pendiente -->
 
 ---
 
-## 🧠 Sobre ProNeet VPN
+## 🧠 Sobre Branet Pro
 
-ProNeet VPN es una herramienta que permite conectividad segura y acceso estable a internet desde diferentes puntos del país.
+Branet Pro es una herramienta que permite conectividad segura y acceso estable a internet desde diferentes puntos del país.
 
 - ⚡ Rápida
 - 🔒 Segura
@@ -65,11 +68,18 @@ ProNeet VPN es una herramienta que permite conectividad segura y acceso estable 
 
 1. Descarga el archivo `.apk`.
 2. Ábrelo desde tu móvil Android.
-3. Si es tu primera vez, activa la opción de **"Permitir fuentes desconocidas"**.
+3. Si es tu primera vez, permite la instalación de aplicaciones desde esta fuente cuando Android lo solicite.
 4. ¡Instala y conéctate!
+
+---
+
+## 📄 Legal
+
+- [Política de Privacidad](https://politicas.branetpro.es)
+- [Términos y Condiciones](https://terminos.branetpro.es)
 
 ---
 
 ## ©️ Derechos
 
-**ProNeet VPN** &copy; 2025 - Todos los derechos reservados.
+**Branet Pro** &copy; 2026 - Todos los derechos reservados.
