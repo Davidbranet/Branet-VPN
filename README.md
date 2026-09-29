@@ -35,7 +35,7 @@ Una app confiable, rápida y lista para mantener tu conexión segura.
 </p>
 
 <p align="center"><br><br>
-  <strong>| Registro |</strong><br><br>
+  <strong>| Información |</strong><br><br>
   <img src="captura4.jpg" alt="Captura 4" width="300"/>  
 </p>
 
